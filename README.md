@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--
-**ZeroToDev1337/ZeroToDev1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Code Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJtYzVkZ2V1YzF4dWJ5Z2ZqZzVqZzVqZzVqZzVqZzVqZzVqZzVqZzVqZzVqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
 
 Here are some ideas to get you started:
 
