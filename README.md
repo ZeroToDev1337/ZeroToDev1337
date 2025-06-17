@@ -28,7 +28,7 @@ class Developer:
 🚀 I build structured, scalable, and maintainable backends using Django.
 <p>🧱 I’m obsessed with clean APIs, database integrity, and good DX.</p>
 <p>📦 I use real tools, solve real problems, and ship actual results.</p>
-🕶️ I don’t just code — I architect.
+🕶️ I don’t just code - I architect.
 
 ## ⚡ Tech Stack
 
@@ -55,6 +55,6 @@ class Developer:
 
 🐙 https://github.com/ZeroToDev1337
 
-💬 [Telegram](https://t.me/matcreate) / [Discord](https://discordapp.com/users/377734572957499392) / [Email](mailto:mattioffwork@gmail.com) — just ping me
+💬 [Telegram](https://t.me/matcreate) / [Discord](https://discordapp.com/users/377734572957499392) / [Email](mailto:mattioffwork@gmail.com) - just ping me
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&section=footer"/> </p> 
